@@ -38,6 +38,8 @@
 **
 ****************************************************************************/
 
+
+//dfjad;jfa
 #include "qmlapplicationviewer.h"
 #include <QtGui/QApplication>
 
